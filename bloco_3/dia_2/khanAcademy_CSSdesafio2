@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        
+        <style>
+        h1 {color:green;}
+        img{border-radius: 10%;}
+        .fundoVerde{background-color: rgb(107, 255, 99);}
+        #vermelho{color:red;}
+        </style>
+    </head>
+    <body>
+    
+        <h1>Conheça o Dedo De Deus</h1>
+        <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Amanhecer_no_Hercules_--.jpg' alt='grupo de montanhas cercado de mata atlandtica conhecido como dedo de deus.' width='500'>
+        <h2>Um dos lugares mais lindos do mundo!</h2>
+        <p> ounded by the Atlantic Ocean on the east, Brazil has a coastline of 7,491 kilometers (4,655 mi).[16] It borders all other countries in South America except Ecuador and Chile and covers 47.3% of the continent's land area.[17] Its Amazon basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected habitats.[16] This unique environmental heritage makes Brazil one of 17 megadiverse countries, and is the subject of significant global interest and debate regarding deforestation and environmental protection. </p>
+        <p>You must meet!</p>
+        
+        <h2>Pessoas se interessam em visitar em lugar por: </h2>
+        <img src='https://www.kasandbox.org/programming-images/landscapes/mountains-and-lake.png' width='500'>
+        <ol class='fundoVerde'>
+            <li>A beleza do lugar própriamente.</li>
+            <li>O contato com a natureza</li>
+            <li>O misticismo religioso do local</li>
+        </ol>
+        <h2>o que as pessoas não costumam gostar</h2>
+        <img src='https://www.kasandbox.org/programming-images/animals/crocodiles.png' width='500'>
+        <ul id="vermelho">
+            <li>poluição</li>
+            <li>invasão urbana</li>
+        </ul>
+        
+    </body>
+</html>
