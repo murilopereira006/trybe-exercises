@@ -6,6 +6,7 @@ article {
     background-color: greenyellow;
     text-align-last: right;
 }
-li {
+nav li {
     display: inline-block;
+    margin: 0px 60px;
     }
