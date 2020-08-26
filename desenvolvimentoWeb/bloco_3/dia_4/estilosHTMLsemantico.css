@@ -1,0 +1,29 @@
+article {
+    padding: 30px;
+}
+.navBar {
+    padding: 20px;
+    background-color: greenyellow;
+    text-align-last: right;
+}
+nav li {
+    display: inline-block;
+    margin: 0px 60px;
+    }
+aside ul {
+    font-size: 18pt;
+    text-align-last: center;
+    list-style: none;
+    background-color: rgb(197, 239, 255);
+    height: 200px;
+}
+
+footer {
+    text-align: right;
+    background-color: rgb(223, 145, 253);
+}
+
+.soco {
+    color: whitesmoke;
+    background-color: black;
+}
