@@ -1,0 +1,8 @@
+.navBar {
+    width: 80%;
+    background-color: aqua;
+    text-align-last: right;
+}
+li {
+    display: inline-block;
+    }
