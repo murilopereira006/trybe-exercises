@@ -1,5 +1,8 @@
+article {
+    padding: 30px;
+}
 .navBar {
-    width: 80%;
+    padding: 20px;
     background-color: greenyellow;
     text-align-last: right;
 }
