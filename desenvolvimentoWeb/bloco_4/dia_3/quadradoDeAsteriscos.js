@@ -6,11 +6,10 @@ function quadrado(altura) {
     for (var i = 0; i < altura; i += 1) {
         x.push(`*`);
         y.push(x);
-
     }
-
-    //imprimindo
-    console.log(y);
+    for (let j = 0; j < altura; j += 1) {
+        console.log(y[j]);
+    }
 }
 
 quadrado(5);
