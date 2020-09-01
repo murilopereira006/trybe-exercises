@@ -9,7 +9,8 @@ function quadrado(altura) {
     }
     for (let j = 0; j < altura; j += 1) {
         console.log(y[j]);
+        
     }
 }
 
-quadrado(5);
+quadrado();
