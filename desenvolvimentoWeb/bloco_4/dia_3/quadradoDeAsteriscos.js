@@ -7,11 +7,7 @@ function quadrado(altura) {
     x.push(`*`);
     y.push(x);
   }
-
-
   console.log(y);
-
-
 }
 
 quadrado(5);

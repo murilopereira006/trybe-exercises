@@ -1,18 +1,15 @@
 function decrecente (altura) {
-    let x = [];
-    let y = [];
-    
+    var x = [];
     for (let i = 0; i < altura; i+=1) {
-        y.push(x);
-    }
-    
-    for (let j = 0; j < altura; i+=1) {
-        console.log(`*`)
+        x.push(`*`);
+        console.log(x);
     }
 }
 
-*. . . . . 
-*.*. . . .
-*.*.*. . . 
-*.*.*.*. . 
-*.*.*.*.*.
+decrecente(5);
+
+//*. . . . . 
+//*.*. . . .
+//*.*.*. . . 
+//*.*.*.*. . 
+//*.*.*.*.*.
